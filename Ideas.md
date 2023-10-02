@@ -51,4 +51,6 @@ Completed but looking to add more weather data sources and improve UI/UX.
 - John Doe (Frontend Developer)
 - Jane Smith (Backend Developer)
 
+## Add your own markdown file with your name and the above given format
+
 Feel free to add as many project ideas as you'd like. Happy hacking!
