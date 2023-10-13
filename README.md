@@ -8,6 +8,6 @@
 
 4. Multiagent llm for sofware development 
 
-5. Low-No Code project 
+5. Low/No-Code project 
 
 6. Battle Ship Game 2D arcade style
