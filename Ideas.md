@@ -12,3 +12,5 @@
 10. Multiagent llm for sofware development : Open for all
 11. POW based blockchain in GO : Simar
 12. Ecommerce Price Comparison : Simar
+13. A face recognization system : Daanish
+14. A personal chat system (like whatsapp) in which we can chat in groups and hide that message from specific person/s :Daanish
